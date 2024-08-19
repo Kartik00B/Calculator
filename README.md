@@ -16,7 +16,7 @@ JavaScript: For implementing the calculator's functionality and managing the red
 
 ## 🚀 How to View
 
-You can view the website code here: [AI Landing Page](https://github.com/Kartik00B/Calculator)
+You can view the website code here: [Calculator Page](https://github.com/Kartik00B/Calculator)
 
 ## 🚀 Getting Started
 To run this project locally, follow these steps:
