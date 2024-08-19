@@ -1,20 +1,20 @@
-#🧮 Modern Calculator with Cover Page
+# 🧮 Modern Calculator with Cover Page
 
 🌟 Overview
 Welcome to the Modern Calculator, a stylish and user-friendly web calculator designed for quick and efficient arithmetic calculations. This project was developed as the third task of my internship at CodSoft. The calculator features an interactive cover page that sets the tone for a seamless user experience, redirecting users to the main calculator interface.
 
-##✨ Features
+## ✨ Features
 Interactive Cover Page: A welcoming cover page that includes a "Start Calculating" button, which smoothly redirects users to the main calculator page.
 Fully Functional Calculator: Perform basic arithmetic operations such as addition, subtraction, multiplication, and division with a clean and intuitive interface.
 Responsive Design: The layout is fully responsive, ensuring that the calculator works flawlessly on desktops, tablets, and smartphones.
 Modern UI: A minimalist and visually appealing user interface that enhances the user experience.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5: For structuring the web pages, including the cover page and the calculator interface.
 CSS3: For styling, including the layout, colors, fonts, and ensuring responsiveness.
 JavaScript: For implementing the calculator's functionality and managing the redirection from the cover page to the main page.
 
-##🚀 Getting Started
+## 🚀 Getting Started
 To run this project locally, follow these steps:
 
 Clone the Repository:
