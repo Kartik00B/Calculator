@@ -14,6 +14,10 @@ HTML5: For structuring the web pages, including the cover page and the calculato
 CSS3: For styling, including the layout, colors, fonts, and ensuring responsiveness.
 JavaScript: For implementing the calculator's functionality and managing the redirection from the cover page to the main page.
 
+## 🚀 How to View
+
+You can view the website code here: [AI Landing Page](https://github.com/Kartik00B/Calculator)
+
 ## 🚀 Getting Started
 To run this project locally, follow these steps:
 
